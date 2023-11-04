@@ -1,0 +1,1 @@
+# all-religions-in-10-minutes-logical-version
