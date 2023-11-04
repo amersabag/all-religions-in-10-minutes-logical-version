@@ -4,19 +4,31 @@
 
 ```mermaid
 flowchart LR
+    OFR[The religion should officially and clearly <br> states that logical reasoning <br> to be satisfied <br> as a fundamental rule]
+    IDR[The identity rule]
+    NCR[The no-contradiction rule]
+    EMR[The excluded middle rule]
     ISL[Islam]
-        -- Satisfies ----> OFR[The religion should officially and clearly <br> states that logical reasoning <br> to be satisfied <br> as a fundamental rule]
+        -- Satisfies ----> OFR
     CHR[Chrianity]
         -- Satisfies ----> OFR
     CHR
-        -- Believes in --> CHR1[One God has three identities]
-        -- Violates ---> IDR[The identity rule]
+        -- Believes --> CHR1[One God has three identities]
+        -- Violates ---> IDR
     CHR
-        -- Believes in --> CHR2[Jesus is both human and <br> God at the same time]
-        -- Necessates --> CHR3[Jesus is all knowing and <br> not all knowning at the same time <br> as Jesus does not know the hour]
-        -- Violates --> NCR[The no-contradiction rule]
+        -- Believes --> CHR2[Jesus is both human and <br> God at the same time]
+        -- Necessitates --> CHR3[Jesus is all knowing and <br> not all knowning at the same time <br> as Jesus does not know the hour]
+        -- Violates --> NCR
     CHR
-        -- Violates ----> EMR[The excluded middle rule]
+        -- Blieves --> CHR4[Hypostatic Union <br> Jesus is both human and God]
+        -- Necessitates --> CHR5[There is a middle between all knowning and not all knowning]
+        -- Violates --> EMR
+    JEW[Judaism]
+        -- Satisfies --> OFR
+    JEW
+        -- Believes --> JEW1[God regrets]
+        -- Necessitates --> JEW2[God is all knowing and not all knowing]
+        -- Violates --> NCR
 ```
 
 ## Intro
