@@ -12,8 +12,8 @@ flowchart LR
         -- Believes in --> CHR1[One God has three identities]
         -- Violates ---> IDR[The identity rule]
     CHR
-        -- Believes in --> CHR2[Jesus is both human and God at the same time]
-        -- Necessates --> CHR3[One identity has contrdictory properties <br> like all knowing and ignorant of the hour]
+        -- Believes in --> CHR2[Jesus is both human and <br> God at the same time]
+        -- Necessates --> CHR3[Jesus is all knowing and <br> not all knowning at the same time <br> as Jesus does not know the hour]
         -- Violates --> NCR[The no-contradiction rule]
     CHR
         -- Violates ----> EMR[The excluded middle rule]
