@@ -1,23 +1,29 @@
 # all-religions-in-10-minutes-logical-version
 
-This is an Islamic response to the relatively fair [Christian video](https://www.youtube.com/watch?v=FTDXlIw8i20)
-
-The idea is that, we will bring the [law of thought](https://en.wikipedia.org/wiki/Law_of_thought) accepted by the majority of logicians and informed reasonable people, and see if we can order the religions accordingly and try to prove that it is actually that only Islam should be picked from all the other religions if the person wants to be reasonable and compatible with the law of thought.
-
 ## Content
 
 ```mermaid
-flowchart TD
-    AA[Logical reasoning to be satisfied as fundamental rule] -- Yes --> Z[Islam]
-    AA -- No --> AB[Does it actually violate known rules of the law of thought]
-    AB -- No --> Z
-    AB -- Yes --> A[Does it violate the identity rule?]
-    A -- Yes --> B[Does it violate the contradiction rule?]
-    A -- No --> Z
-    B -- Yes --> C[Does it violate the excluded middle rule?]
-    CHR[Chrianity] -- Believes in --> CHR1[One God has three identities]
-    CHR1 -- Violates --> A
+flowchart LR
+    ISL[Islam]
+        -- Satisfies ----> OFR[The religion should officially and clearly <br> states that logical reasoning <br> to be satisfied <br> as a fundamental rule]
+    CHR[Chrianity]
+        -- Satisfies ----> OFR
+    CHR
+        -- Believes in --> CHR1[One God has three identities]
+        -- Violates ---> IDR[The identity rule]
+    CHR
+        -- Believes in --> CHR2[Jesus is both human and God at the same time]
+        -- Necessates --> CHR3[One identity has contrdictory properties <br> like all knowing and ignorant of the hour]
+        -- Violates --> NCR[The no-contradiction rule]
+    CHR
+        -- Violates ----> EMR[The excluded middle rule]
 ```
+
+## Intro
+This is an Islamic response to the relatively fair [Christian video](https://www.youtube.com/watch?v=FTDXlIw8i20)
+
+The idea is that, we will bring the [law of thought](https://en.wikipedia.org/wiki/Law_of_thought) accepted by the majority of logicians and informed reasonable people, and see if we can order the religions accordingly and try to prove that only Islam should be picked from all the other religions if the person wants to be reasonable and compatible with the law of thought. We will concentrate only on God's principle for this comparison.
+
 
 ## The plan
 
