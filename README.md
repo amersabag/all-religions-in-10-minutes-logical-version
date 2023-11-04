@@ -4,7 +4,25 @@ This is an Islamic response to the relatively fair [Christian video](https://www
 
 The idea is that, we will bring the [law of thought](https://en.wikipedia.org/wiki/Law_of_thought) accepted by the majority of logicians and informed reasonable people, and see if we can order the religions accordingly and try to prove that it is actually that only Islam should be picked from all the other religions if the person wants to be reasonable and compatible with the law of thought.
 
+## Content
+
+```mermaid
+flowchart TD
+    AA[Logical reasoning to be satisfied as fundamental rule] -- Yes --> Z[Islam]
+    AA -- No --> AB[Does it actually violate known rules of the law of thought]
+    AB -- No --> Z
+    AB -- Yes --> A[Does it violate the identity rule?]
+    A -- Yes --> B[Does it violate the contradiction rule?]
+    A -- No --> Z
+    B -- Yes --> C[Does it violate the excluded middle rule?]
+    CHR[Chrianity] -- Believes in --> CHR1[One God has three identities]
+    CHR1 -- Violates --> A
+```
+
+## The plan
+
 The plan is to pick the rules of the law of thought one by one, and see which basic tenets of each religion violate this rule, and how Islam is actually the only fully logical religion, and we will try to reuse the contents of the same mentioned video as much as possible just to emphasize how biased that video is, not only biased toward Christianity, but also biased toward the main stream narrative of making all religions relative and subjective. The video concentrate on choice instead of concentrating on evidence, which is why we think it does not reperesent the Islamic faith right, and this is the video which will fix the issue and show how regilions are sorted in the minds of informed Muslims.
+
 
 ## ** DISCLAIMER **
 
@@ -22,14 +40,4 @@ The answer to this problem can be deducted from the Quranic verse 49:6, which st
 
 This is an example of how logical rules can be extracted from the Quran text without relying on fallable human thinking and deeply embedded false beliefs, and actually this exact logical rule is of tremendous importance to distuguish good and bad people, and that can be very easily understood by looking at what happened in the crime done by USA toward Iraqi people in 2000s. The very important news was: "Iraq has a weapons of mass destruction", and the doubtful source is the USA government which is known to be heavily influenced by islamophobia and very huge bias toward Israel's safety, and they are now hiding behind the word "mistake", while it was very obvious that they are ruling on wrong logical rules. And it is happening now again in Gaza. They believe anything being told by Israel which were known to be an impuslive liar even against USA itself, and they doubt in everything they hear from the Palestinian authorities which were proven to be reliable source of information by most respected independent international reseach firms, and they are not allowing any independent sources to be on the field, and they think they can use these information to justify killing thousands of obviously innocent people, while we all know that killing these innocent people is an announced goal by many of the far right Israeli government members.
 
-## Content
-
-```mermaid
-flowchart TD
-    A[Start] --> B{Is it?}
-    B -- Yes --> C[OK]
-    C --> D[Rethink]
-    D --> B
-    B -- No ----> E[End]
-```
 
